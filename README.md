@@ -41,3 +41,5 @@ $ grun gramatica# s -tree
 Si se desea ver el arbol que genera ANTLR deberá ejecutar los siguientes comandos:
 $ grun gramatica# s -gui
 >//para este punto se deberán ingresar las cadenas que quieran ser validadas
+
+psp#.png -> esa imagen muestra el conjunto de primeros, siguientes y de predicción
